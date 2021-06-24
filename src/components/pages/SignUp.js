@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import "../../App.css";
-import "./SignUp.css";
+import "../../css/App.css";
+import "../../css/SignUp.css";
 import FormSignUp from "../FormSignUp";
 import { validateSignUpForm } from "../ValidateFormSignUp";
 
